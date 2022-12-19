@@ -1,0 +1,2 @@
+# Correção: os links estão equivocados, devido a cópia feita de forma errada da raiz.
+# Nota: 0,5

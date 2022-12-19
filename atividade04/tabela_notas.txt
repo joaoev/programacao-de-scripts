@@ -1,0 +1,9 @@
+ NOME TURMA NOTA1 NOTA2 NOTA3
+João     A     7     8     9
+Maria    A     5     7     7
+Carlos   B     6     4     6
+Ana      A     3     9     7
+Helena   C     3     4     7
+Luisa    C     9     8    10
+Maite    C    10     9     8
+Chico    B     5     3     8
